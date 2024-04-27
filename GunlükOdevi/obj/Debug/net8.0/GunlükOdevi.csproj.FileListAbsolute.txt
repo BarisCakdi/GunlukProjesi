@@ -1,0 +1,14 @@
+C:\Works\GunlükOdevi\bin\Debug\net8.0\GunlükOdevi.exe
+C:\Works\GunlükOdevi\bin\Debug\net8.0\GunlükOdevi.deps.json
+C:\Works\GunlükOdevi\bin\Debug\net8.0\GunlükOdevi.runtimeconfig.json
+C:\Works\GunlükOdevi\bin\Debug\net8.0\GunlükOdevi.dll
+C:\Works\GunlükOdevi\bin\Debug\net8.0\GunlükOdevi.pdb
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.AssemblyInfoInputs.cache
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.AssemblyInfo.cs
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.csproj.CoreCompileInputs.cache
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.dll
+C:\Works\GunlükOdevi\obj\Debug\net8.0\refint\GunlükOdevi.dll
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.pdb
+C:\Works\GunlükOdevi\obj\Debug\net8.0\GunlükOdevi.genruntimeconfig.cache
+C:\Works\GunlükOdevi\obj\Debug\net8.0\ref\GunlükOdevi.dll
